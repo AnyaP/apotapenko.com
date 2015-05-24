@@ -1,7 +1,30 @@
 ---
 layout: default
-title: Research
+title: Research — Anya Potapenko
+section: research
 ---
-	<h1>{{ page.title }}</h1>
-
 	<p>My current research topics</p>
+
+	<section class="publications">
+
+	{% comment %}
+	<h1>In Progress</h1>
+	{% for post in site.categories.research %}
+	{% if post.status == "in-progress" %}
+	<article>
+	{{ post.content }}
+	</article>
+	{% endif %}
+	{% endfor %}
+	{% endcomment %}
+
+	<section>
+	<h1>Papers</h1>
+	{% for post in site.categories.research %}
+	{% if post.status == "published" or post.status == "in-review" or post.status == "forthcoming" or post.status == "draft" or post.status == "under-revision" %}
+	<article>
+	{{ post.content }}
+	</article>
+	{% endif %}
+	{% endfor %}
+	</section>

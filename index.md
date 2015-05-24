@@ -9,7 +9,7 @@ section: home
 <p style="text-align: justify" markdown="1">
 
 This is my personal page. I should write many interesting facts about myself here.
-I will list my current researches, conferences I visited and teaching
+I will list my current research topics, conferences I attended and teaching
 related materials. Also, I can try some blogging. Stay tuned!
 
 </p>
@@ -18,8 +18,8 @@ related materials. Also, I can try some blogging. Stay tuned!
 
 <div style="text-align:center" markdown="1">
 
-[Higher School of Economics][HSE]\\
-Moscow\\
+[Higher School of Economics][HSE] \\
+Moscow \\
 <my@email>
 
 *****
