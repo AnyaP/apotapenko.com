@@ -158,17 +158,16 @@ div.sitesearch p {
 }
 
 .home_image_container {
-  // display: block;
-  // width: 100%;
-  position: absolute;
-  left: 0;
-  top: 0;
+  display: block;
+  width: 100%;
+  position: relative;
+  left: -10px;
 }
 
 .home_image {
   display: block;
-  // margin-left: auto;
-  // margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
   padding: 1em 2em 1em 2em;
   width: 150px;
 
