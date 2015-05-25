@@ -1,5 +1,5 @@
 ---
-title: "Anya Potapenko Personal Page Launched"
+title: "Anna Potapenko Personal Page Launched"
 date: 2015-06-01
 layout: post
 section: blog

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anya Potapenko
+title: Anna Potapenko
 section: home
 ---
 
