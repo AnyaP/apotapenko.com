@@ -10,7 +10,7 @@ section: home
 
 This is my personal page. I should write many interesting facts about myself here.
 I will list my current research topics, conferences I attended and teaching
-related materials. Also, I can try some blogging. Stay tuned!
+materials. Also, I can try some blogging. Stay tuned!
 
 </p>
 
