@@ -13,3 +13,9 @@ status: in-review
 > Abstract or description of paper
 > Or some other interesting details
 > should be listed here
+>
+>
+> It may contain some fancy LaTeX:
+> \\[
+>	 \sum_{i = 1}^{n} i^2
+> \\]
