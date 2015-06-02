@@ -9,8 +9,7 @@ section: home
 <p style="text-align: justify" markdown="1">
 
 This is my personal page. I should write many interesting facts about myself here.
-I will list my current research topics, conferences I attended and teaching
-materials. Also, I can try some blogging. Stay tuned!
+Stay tuned!
 
 </p>
 
