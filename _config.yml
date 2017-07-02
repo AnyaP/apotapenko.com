@@ -31,7 +31,7 @@ disqus_site_shortname: "nandothemes"
 author:
   name      : Anna Potapenko
   job       : NLP Researcher
-  bio       : "You shall know a word by the company it keeps."
+  bio       : "You can contact me at anna.a.potapenko[at]gmail.com."
   thumb     : /images/author.jpg
   email     : anna.a.potapenko@gmail.com
   url       : http://apotapenko.com
@@ -42,8 +42,8 @@ author:
 
 # navbar pages
 navbar:
-  - slug: about
-    title: About
+  - slug: publications
+    title: Publications
   # - slug: resume
   #   title: Resume
   # - slug: skills
