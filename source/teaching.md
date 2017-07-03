@@ -6,10 +6,10 @@ permalink: /teaching/
 
 ##### Natural Language Processing
 
-Fall 2017. Instructor.<br />
-*Coursera Specialization on Advanced Machine Learning.*
+Fall 2017. One of the authors.<br />
+*Coursera Specialization on Advanced Machine Learning (to be launched).*
 
-Sring 2017. Instructor.<br />
+Spring 2017. Instructor.<br />
 *Faculty of Computational Mathematics and Cybernetics*,
 *Moscow State University.*
 
@@ -24,7 +24,9 @@ Fall 2015, Spring 2016. Instructor.<br />
 
 ##### Bayesian Methods in Topic Modeling
 
-Spring 2015. Teaching Assistant.<br />
+Spring 2015. Teaching Assistant. [Lecture Notes (in Russian)]({{ site.url }}/images/BayesTM.pdf)<br />
 *Faculty of Computational Mathematics and Cybernetics*,
 *Moscow State University.*
+
+
 

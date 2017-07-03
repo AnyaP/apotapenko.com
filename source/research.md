@@ -4,27 +4,45 @@ title: Research
 permalink: /research/
 ---
 
+*"You shall now a word by the company it keeps" (Firth, 1957)*.
+
+I am curently working on different methods of distribtutional semantics. 
+I find it facinating that people (and machines) can learn meaning of words just by their contexts. 
+
+Prior to that I was working on Probabilistic Topic Models and particularly non-Bayesyan approach of Additive Regularization
+that enables meeting multiple requirements for a model in practice.
+
+More broadly, I am interested in Natural Language Processing and Machine Learning techniques. 
+
+<br />
+
+<p align="center">
+  <img src="{{ site.url }}/images/words_small.jpg"  width="300" height="300">
+</p>
+
+
+<br />
 
 ### Events and schools
 
-[DataFest](http://datafest.ru/4/): data science conference and workshops, Moscow, Russia, February 11-12, 2017. <br />
-Video: [Vector representations of words and documents](https://www.youtube.com/watch?v=KEXWC-ICH_Y) (in Russian).
+[DataFest](http://datafest.ru/4/): data science conference and workshops, Moscow, Russia, February 11-12, 2017.
+Vector representations of words and documents [[Video (in Russian)](https://www.youtube.com/watch?v=KEXWC-ICH_Y)].
 
 [DeepHack.Q&A](http://qa.deephack.me/): hackathon on Deep Learning and Q&A systems, Moscow, Russia, February 2016.
-Slides: [Word embeddings and topic models: bridging the gap](https://drive.google.com/file/d/0B0PX5JnpNX8yR2JrbU01b3VCY1U/view).
+Word embeddings and topic models: bridging the gap [[Slides](https://drive.google.com/file/d/0B0PX5JnpNX8yR2JrbU01b3VCY1U/view)].
 
 The 2nd Conference of Yandex School of Data Analysis [Machine Learning: Prospects and
 Applications](https://yandexdataschool.com/conference/2015/about), Berlin, Germany, October 5-8 2015.
-Poster: [Linguistic regularization of topic models]({{ site.url }}/images/Poster_to_Berlin.pdf).
+Linguistic regularization of topic models [[Poster]({{ site.url }}/images/Poster_to_Berlin.pdf)].
 
 The 5th Lisbon Machine Learning School [LxMLS-2015](http://lxmls.it.pt/2015/). Lisbon, Portugal, July 16-23 2015.
 
-Visit to Microsoft Research Cambridge, UK, April 2015. Slides: [Additive regularization
-of topic models and its parallel implementation BigARTM.org]({{ site.url }}/images/Microsoft_slides.pdf).
+Visit to Microsoft Research Cambridge, UK, April 2015. Additive regularization
+of topic models and its parallel implementation BigARTM.org [[Slides]({{ site.url }}/images/Microsoft_slides.pdf)].
 
 The 8th Russian Summer School in Information Retrieval [RuSSIR 2014](http://romip.ru/russir2014/), Nizhny
-Novgorod, Russia, August 18-22 2014. Poster: [Additive Regularization for
-Learning Interpretable Topic Models]({{ site.url }}/images/Poster_to_RUSSIR.pdf).
+Novgorod, Russia, August 18-22 2014. Additive Regularization for
+Learning Interpretable Topic Models [[Poster]({{ site.url }}/images/Poster_to_RUSSIR.pdf)].
 
 <br />
 
@@ -44,14 +62,24 @@ Potapenko A. A., Vorontsov K. V.  [Robust PLSA Performs Better Than LDA](https:/
 
 ##### In Russian:
 
-Vorontsov K. V., Potapenko A. A. Regularization, Robustness and Sparsity of Probabilistic Topic Models. Computer research and modeling, 2012. V. 4, N 4.Pp. 693-706.
+Vorontsov K. V., Potapenko A. A. [Regularization of probabilistic topic modelsto improve interpretability and determine the number of topics](http://www.dialog-21.ru/digests/dialog2014/materials/pdf/VorontsovKVPotapenkoAA.pdf). International Conference on Computational Linguistics “Dialogue”. – Computational Linguisticsand Intellectual Technologies, Moscow, 2014. Pp. 707-719.
 
-Vorontsov K. V., Potapenko A. A. Robust Sparse Probabilistic Topic Models. The 9-th International Conference “Intellectualization of Information Processing” (IIP-2012), Budva, Montenegro. – Moscow: Torus Press, 2012. Pp. 605-608.
+Potapenko A. A. Regularization of probabilistic topic model for forming topic kernels. XXI International scientific conference “Lomonosov-2014”. – Moscow: Issuing office of MSU, CMC, 2013. Pp. 80-82.
 
-Vorontsov K. V., Potapenko A. A. Modifications of Generalized EM-algorithm for Probabilistic Topic Modeling. Journal of Machine Learning and Data Analysis (ISSN 2223-3792), 2013.
+Vorontsov K. V., Potapenko A. A. [Modifications of Generalized EM-algorithm for Probabilistic Topic Modeling](https://www.hse.ru/pubs/share/direct/document/143780498). Journal of Machine Learning and Data Analysis (ISSN 2223-3792), 2013.
 
 Potapenko A. A. Sparse Probabilistic Topic Models. Theses of the 16-th Russian Conference “Mathematical Methods of Pattern Recognition”, Kazan. – Moscow: MAKS Press, 2013, P. 89.
 
-Potapenko A. A. Regularization of probabilistic topic model for forming topickernels. XXI International scientific conference “Lomonosov-2014”. – Moscow: Issuing office of MSU, CMC, 2013. Pp. 80-82.
+Vorontsov K. V., Potapenko A. A. [Regularization, Robustness and Sparsity of Probabilistic Topic Models](http://crm-en.ics.org.ru/uploads/crmissues/crm_2012_4/12403.pdf). Computer research and modeling, 2012. V. 4, N 4.Pp. 693-706.
 
-Vorontsov K. V., Potapenko A. A. Regularization of probabilistic topic modelsto improve interpretability and determine the number of topics. International Conference on Computational Linguistics “Dialogue”. – Computational Linguisticsand Intellectual Technologies, Moscow, 2014. Pp. 707-719.
+Vorontsov K. V., Potapenko A. A. Robust Sparse Probabilistic Topic Models. The 9-th International Conference “Intellectualization of Information Processing” (IIP-2012), Budva, Montenegro. – Moscow: Torus Press, 2012. Pp. 605-608.
+
+
+
+
+
+
+
+
+
+
