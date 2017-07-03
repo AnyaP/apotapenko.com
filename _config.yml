@@ -44,10 +44,10 @@ author:
 navbar:
   - slug: bio
     title: Bio
+  - slug: research
+    title: Research
   - slug: teaching
     title: Teaching
-  - slug: publications
-    title: Publications
   # - slug: resume
   #   title: Resume
   # - slug: skills
