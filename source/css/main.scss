@@ -4,3 +4,7 @@
 
 @charset "utf-8";
 @import "main";
+
+.site-header h1 a {
+  text-transform: none;
+}

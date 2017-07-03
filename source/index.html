@@ -11,8 +11,10 @@ layout: home
     <h3>I'm <strong itemprop="name">{{ site.author.name }}</strong>, an <em itemprop="jobTitle">{{ site.author.job }}</em>.</h3>
     <h3>{{ site.author.bio }}</h3>
 
+
+    <a href="{{ '/bio' | prepend: site.baseurl }}" class="btn btn-ghost">bio</a>
+    <a href="{{ '/teaching' | prepend: site.baseurl }}" class="btn btn-ghost">teaching</a>
     <a href="{{ '/publications' | prepend: site.baseurl }}" class="btn btn-ghost">publications</a>
-    <a href="{{ '/blog' | prepend: site.baseurl }}" class="btn btn-ghost">blog</a>
 
   <!--   {% include social.html %} -->
 

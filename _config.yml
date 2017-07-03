@@ -15,9 +15,9 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
+title: home
+description: "Homepage of Anna Potapenko."
+keywords: "Anna Potapenko, NLP, Moscow, topic modeling, word embeddings, HSE, MSU"
 url:
 # baseurl: "/apotapenko.com"
 baseurl: ""
@@ -42,13 +42,17 @@ author:
 
 # navbar pages
 navbar:
+  - slug: bio
+    title: Bio
+  - slug: teaching
+    title: Teaching
   - slug: publications
     title: Publications
   # - slug: resume
   #   title: Resume
   # - slug: skills
   #   title: Skills
-  - slug: blog
-    title: Blog
+  #- slug: blog
+  #  title: Blog
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]

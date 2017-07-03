@@ -6,11 +6,11 @@ permalink: /publications/
 
 ##### In English:
 
-Potapenko A. A., Vorontsov K. V.  **Robust PLSA Performs Better Than LDA.** The 35-th European Conference on Information Retrieval, ECIR-2013, Moscow,Russia, 24-27 March 2013. – Lecture Notes in Computer Science LNCS 7814, Springer-Verlag Germany, 2013. Pp. 784-787.
+Potapenko A. A., Vorontsov K. V.  Robust PLSA Performs Better Than LDA. The 35-th European Conference on Information Retrieval, ECIR-2013, Moscow,Russia, 24-27 March 2013. – Lecture Notes in Computer Science LNCS 7814, Springer-Verlag Germany, 2013. Pp. 784-787.
 
-Vorontsov K. V., Potapenko A. A. <em>Tutorial on Probabilistic Topic Modeling: Additive Regularization for Stochastic Matrix Factorization.</em> Analysis of Images, Social Networks, and Texts. – Springer, 2014, CCIS, vol. 436, pp. 29-46.
+Vorontsov K. V., Potapenko A. A. Tutorial on Probabilistic Topic Modeling: Additive Regularization for Stochastic Matrix Factorization. Analysis of Images, Social Networks, and Texts. – Springer, 2014, CCIS, vol. 436, pp. 29-46.
 
-Vorontsov K. V., Potapenko A. A. **Additive Regularization of Topic Models.** Machine Learning Journal, Special Issue “Data Analysis and Intelligent Optimization”– Springer, 2015. Volume 101, Issue 1, Page 303-323. DOI: 10.1007/s10994-014-5476-6.
+Vorontsov K. V., Potapenko A. A. Additive Regularization of Topic Models. Machine Learning Journal, Special Issue “Data Analysis and Intelligent Optimization”– Springer, 2015. Volume 101, Issue 1, Page 303-323. DOI: 10.1007/s10994-014-5476-6.
 
 Vorontsov K.V., Potapenko A.A., Plavin A.V. Additive Regularization of Topic Models for Topic Selection and Sparse Factorization. The Third InternationalSymposium On Learning And Data Sciences, April 20-22, 2015, Royal Holloway, University of London, UK. – Springer International Publishing Switzerland 2015, A. Gammerman et al. (Eds.): SLDS 2015, LNAI 9047, pp. 193-202.
 
