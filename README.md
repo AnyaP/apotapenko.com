@@ -4,7 +4,7 @@ Hello! You're in the repository for website apotapenko.com
 
 This document contains installation guide and commonly used commands.
 
-For full tutorial refer to [TUTORIAL.md](TUTORIAL.md) that explains some basics that you'll need to edit webpages and also gives some links for further reading.
+For full tutorial refer to [tutorial](TUTORIAL.md) that explains some basics that you'll need to edit webpages and also gives some links for further reading.
 
 # Installation
 
