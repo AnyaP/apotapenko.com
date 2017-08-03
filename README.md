@@ -39,5 +39,5 @@ jekyll serve -w --port 7003
 
 - Post the commited changes to the live website:
 ```sh
-rake publish
+bundle exec rake publish
 ```
