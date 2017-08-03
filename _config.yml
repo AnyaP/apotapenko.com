@@ -22,7 +22,7 @@ url:
 # baseurl: "/apotapenko.com"
 baseurl: ""
 
-# google_analytics: UA-52446115-1
+google_analytics: UA-103954038-1
 repo: http://github.com/anyap/apotapenko.com
 disqus_shortname: "nandothemes"
 disqus_site_shortname: "nandothemes"
