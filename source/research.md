@@ -6,13 +6,13 @@ permalink: /research/
 
 *"You shall now a word by the company it keeps" (Firth, 1957)*.
 
-I am curently working on different methods of distribtutional semantics. 
-I find it facinating that people (and machines) can learn meaning of words just by their contexts. 
+I am currently working on different methods of distributional semantics.
+I find it fascinating that people (and machines) can learn meaning of words just by their contexts.
 
-Prior to that I was working on Probabilistic Topic Models and particularly non-Bayesyan approach of Additive Regularization
+Prior to that I was working on Probabilistic Topic Models and particularly non-Bayesian approach of Additive Regularization
 that enables meeting multiple requirements for a model in practice.
 
-More broadly, I am interested in Natural Language Processing and Machine Learning techniques. 
+More broadly, I am interested in Natural Language Processing and Machine Learning techniques.
 
 <br />
 
@@ -24,6 +24,9 @@ More broadly, I am interested in Natural Language Processing and Machine Learnin
 <br />
 
 ### Events and schools
+
+Rep4NLP workshop co-located with [ACL-2017](http://acl2017.org/), Vancouver, Canada, July 30 - August 4.
+Regularized Topic Models for Sparse Interpretable Word Embeddings [[Poster]({{ site.url }}/images/PosterToRep4NLP_homepage.pdf)]
 
 [DataFest](http://datafest.ru/4/): data science conference and workshops, Moscow, Russia, February 11-12, 2017.
 Vector representations of words and documents [[Video (in Russian)](https://www.youtube.com/watch?v=KEXWC-ICH_Y)].
@@ -50,6 +53,10 @@ Learning Interpretable Topic Models [[Poster]({{ site.url }}/images/Poster_to_RU
 
 ##### In English:
 
+A. Potapenko, A. Popov, K. Vorontsov [Interpretable probabilistic embeddings: bridging the
+gap between topic models and neural networks]({{ site.url }}/images/ainl_paper_homepage.pdf)).
+Accepted to AINL 2017.
+
 Vorontsov K. V., Potapenko A. A. [Additive Regularization of Topic Models](https://link.springer.com/content/pdf/10.1007%2Fs10994-014-5476-6.pdf). Machine Learning Journal, Special Issue “Data Analysis and Intelligent Optimization”– Springer, 2015. Volume 101, Issue 1, Page 303-323. DOI: 10.1007/s10994-014-5476-6.
 
 Vorontsov K. V., Potapenko A. A., Plavin A.V. [Additive Regularization of Topic Models for Topic Selection and Sparse Factorization](http://ai2-s2-pdfs.s3.amazonaws.com/bed6/5ae6f3e2c4949d4531392945eff86e572d8d.pdf). The Third International Symposium On Learning And Data Sciences, April 20-22, 2015, Royal Holloway, University of London, UK. – Springer, A. Gammerman et al. (Eds.): SLDS 2015, LNAI 9047, pp. 193-202.
@@ -62,7 +69,7 @@ Potapenko A. A., Vorontsov K. V.  [Robust PLSA Performs Better Than LDA](https:/
 
 ##### In Russian:
 
-Vorontsov K. V., Potapenko A. A. [Regularization of probabilistic topic modelsto improve interpretability and determine the number of topics](http://www.dialog-21.ru/digests/dialog2014/materials/pdf/VorontsovKVPotapenkoAA.pdf). International Conference on Computational Linguistics “Dialogue”. – Computational Linguisticsand Intellectual Technologies, Moscow, 2014. Pp. 707-719.
+Vorontsov K. V., Potapenko A. A. [Regularization of probabilistic topic models to improve interpretability and determine the number of topics](http://www.dialog-21.ru/digests/dialog2014/materials/pdf/VorontsovKVPotapenkoAA.pdf). International Conference on Computational Linguistics “Dialogue”. – Computational Linguistics and Intellectual Technologies, Moscow, 2014. Pp. 707-719.
 
 Potapenko A. A. Regularization of probabilistic topic model for forming topic kernels. XXI International scientific conference “Lomonosov-2014”. – Moscow: Issuing office of MSU, CMC, 2013. Pp. 80-82.
 
@@ -73,13 +80,3 @@ Potapenko A. A. Sparse Probabilistic Topic Models. Theses of the 16-th Russian C
 Vorontsov K. V., Potapenko A. A. [Regularization, Robustness and Sparsity of Probabilistic Topic Models](http://crm-en.ics.org.ru/uploads/crmissues/crm_2012_4/12403.pdf). Computer research and modeling, 2012. V. 4, N 4.Pp. 693-706.
 
 Vorontsov K. V., Potapenko A. A. Robust Sparse Probabilistic Topic Models. The 9-th International Conference “Intellectualization of Information Processing” (IIP-2012), Budva, Montenegro. – Moscow: Torus Press, 2012. Pp. 605-608.
-
-
-
-
-
-
-
-
-
-
