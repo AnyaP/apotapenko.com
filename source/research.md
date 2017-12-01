@@ -25,6 +25,8 @@ More broadly, I am interested in Natural Language Processing and Machine Learnin
 
 ### Events and schools
 
+Giving a talk on ARTM embeddings [[Slides]({{ site.url }}/images/Slides_ETH_final.pdf)] as an academic guest at Thomas Hofmann's group at ETH Zurich (November 2017 - April 2018).
+
 Rep4NLP workshop co-located with [ACL-2017](http://acl2017.org/), Vancouver, Canada, July 30 - August 4.
 Regularized Topic Models for Sparse Interpretable Word Embeddings [[Poster]({{ site.url }}/images/PosterToRep4NLP_homepage.pdf)]
 
