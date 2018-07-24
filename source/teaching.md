@@ -6,8 +6,9 @@ permalink: /teaching/
 
 ##### Natural Language Processing
 
-Fall 2017. One of the authors.<br />
-*Coursera Specialization on Advanced Machine Learning (to be launched).*
+Launched in 2018. Author and instructor.<br />
+[Online NLP-course on Coursera](https://www.coursera.org/learn/language-processing/)<br />
+Very brief syllabus: text classification (sentiment analysis, intent recognition), language modeling, sequence tagging (part-of-speach tagging, named entity recognition), seqence2sequence (machine translation, summarization), dialoge systems (implement your own chat-bot as the final project!).
 
 Spring 2017. Instructor.<br />
 *Faculty of Computational Mathematics and Cybernetics*,

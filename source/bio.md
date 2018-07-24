@@ -16,17 +16,20 @@ Particularly, I show how to learn probabilistic interpretable sparse embeddings 
 
 During my PhD I have done several internships:
 
-* Summer 2016 - Google, Ads Quality team.
+* Winter 2017-2018 - ETH Zurich, Data Analytics Lab.
 
-I developed models to expand categories with new concepts based on distributional similarities.
-
-* Fall-Winter 2016 - [Yandex Data Factory](https://yandexdatafactory.com/).
-
-I was working on time series prediction, news mining, and other applied machine learning projects.
+I was working on interpretability and sparsity of word embeddings in Thomas Hofmann's group.
 
 * Summer 2017 - Google, Assistant team.
 
-I did research on soft and hard attention in neural networks for dialogue systems.
+I carried out a piece of research on soft and hard attention in neural networks for dialogue systems.
 
+* Fall-Winter 2016 - [Yandex Data Factory](https://yandexdatafactory.com/).
+
+I accomplished a few projects on applied machine learning, namely: time series prediction for ATM withdrawal, news retrieval, news clustering and de-duplicating.
+
+* Summer 2016 - Google, Ads Quality team.
+
+I developed models to expand categories with new concepts based on distributional similarities.
 
 You can download my full CV [here]({{ site.url }}/images/CV_2017.pdf).

@@ -55,9 +55,13 @@ Learning Interpretable Topic Models [[Poster]({{ site.url }}/images/Poster_to_RU
 
 ##### In English:
 
+A. Potapenko [Probabilistic approach for embedding
+              arbitrary features of text]({{ site.url }}/images/potapenko2018aist.pdf).
+Analysis of Images, Social networks and Texts (AIST-2018). [[Slides]({{ site.url }}/images/slides_aist.pdf)].
+
 A. Potapenko, A. Popov, K. Vorontsov [Interpretable probabilistic embeddings: bridging the
 gap between topic models and neural networks]({{ site.url }}/images/potapenko2017ainl.pdf).
-Accepted to AINL-2017. [[Slides]({{ site.url }}/images/slides_ainl.pdf)].
+Artificial Intelligence and Natural Language (AINL-2017). [[Slides]({{ site.url }}/images/slides_ainl.pdf)].
 
 Vorontsov K. V., Potapenko A. A. [Additive Regularization of Topic Models](https://link.springer.com/content/pdf/10.1007%2Fs10994-014-5476-6.pdf). Machine Learning Journal, Special Issue “Data Analysis and Intelligent Optimization”– Springer, 2015. Volume 101, Issue 1, Page 303-323. DOI: 10.1007/s10994-014-5476-6.
 
