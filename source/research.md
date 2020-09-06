@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-*"You shall now a word by the company it keeps" (Firth, 1957)*.
+*"You shall know a word by the company it keeps" (Firth, 1957)*.
 
 I am currently working on different methods of distributional semantics.
 I find it fascinating that people (and machines) can learn meaning of words just by their contexts.
