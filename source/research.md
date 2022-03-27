@@ -5,19 +5,20 @@ permalink: /research/
 ---
 
 My research interests include language and biology. During my PhD I was working on topics of distributional semantics to develop new ways of learning interpretable and disentangled representations of words and texts.
-Lately, I became increasingly interested in advancing natural sciences with my background in machine learning and thus joined DeepMind Science team to develop deep learning methods for tasks in biology.
+Lately, I became increasingly interested in advancing natural sciences with methods from machine learning, and thus joined DeepMind Science team to develop new models for tasks in biology.
 
 
 ### Recent publications
 
-[Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2) John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli & Demis Hassabis. Nature, 2021.
+[Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2). John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli & Demis Hassabis. Nature, 2021.
 
-[Highly accurate protein structure prediction for the human proteome](https://www.nature.com/articles/s41586-021-03828-1) Kathryn Tunyasuvunakool, Jonas Adler, Zachary Wu, Tim Green, Michal Zielinski, Augustin Žídek, Alex Bridgland, Andrew Cowie, Clemens Meyer, Agata Laydon, Sameer Velankar, Gerard J. Kleywegt, Alex Bateman, Richard Evans, Alexander Pritzel, Michael Figurnov, Olaf Ronneberger, Russ Bates, Simon A. A. Kohl, Anna Potapenko, Andrew J. Ballard, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Ellen Clancy, David Reiman, Stig Petersen, Andrew W. Senior, Koray Kavukcuoglu, Ewan Birney, Pushmeet Kohli, John Jumper & Demis Hassabis. Nature, 2021.
+[Highly accurate protein structure prediction for the human proteome](https://www.nature.com/articles/s41586-021-03828-1). Kathryn Tunyasuvunakool, Jonas Adler, Zachary Wu, Tim Green, Michal Zielinski, Augustin Žídek, Alex Bridgland, Andrew Cowie, Clemens Meyer, Agata Laydon, Sameer Velankar, Gerard J. Kleywegt, Alex Bateman, Richard Evans, Alexander Pritzel, Michael Figurnov, Olaf Ronneberger, Russ Bates, Simon A. A. Kohl, Anna Potapenko, Andrew J. Ballard, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Ellen Clancy, David Reiman, Stig Petersen, Andrew W. Senior, Koray Kavukcuoglu, Ewan Birney, Pushmeet Kohli, John Jumper & Demis Hassabis. Nature, 2021.
 
-[Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning](https://aclanthology.org/2020.acl-main.685/) Angeliki Lazaridou, Anna Potapenko, and Olivier Tieleman. ACL-2020.
+[Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning](https://aclanthology.org/2020.acl-main.685/). Angeliki Lazaridou, Anna Potapenko, and Olivier Tieleman. ACL-2020.
 
-[Compressive Transformers for Long-Range Sequence Modelling](https://openreview.net/pdf?id=SylKikSYDH) Jack W. Rae, Anna Potapenko, Siddhant M. Jayakumar, Chloe Hillier, Timothy P. Lillicrap. ICLR-2020.
+[Compressive Transformers for Long-Range Sequence Modelling](https://openreview.net/pdf?id=SylKikSYDH). Jack W. Rae, Anna Potapenko, Siddhant M. Jayakumar, Chloe Hillier, Timothy P. Lillicrap. ICLR-2020.
 
+<br />
 
 ### PhD research (2014 - 2019)
 
@@ -55,7 +56,6 @@ The 8th Russian Summer School in Information Retrieval [RuSSIR 2014](http://romi
 Novgorod, Russia, August 18-22 2014. Additive Regularization for
 Learning Interpretable Topic Models [[Poster]({{ site.url }}/images/Poster_to_RUSSIR.pdf)].
 
-<br />
 
 #### Publications (in English):
 
@@ -75,7 +75,6 @@ Vorontsov K. V., Potapenko A. A. [Tutorial on Probabilistic Topic Modeling: Addi
 
 Potapenko A. A., Vorontsov K. V.  [Robust PLSA Performs Better Than LDA](https://www.researchgate.net/profile/Konstantin_Vorontsov/publication/262314923_Robust_PLSA_performs_better_than_LDA/links/54e9f3480cf25ba91c814c64.pdf). The 35-th European Conference on Information Retrieval, ECIR-2013, Moscow, Russia, 24-27 March 2013. – LNCS 7814, Springer-Verlag Germany, 2013. Pp. 784-787.
 
-<br />
 
 #### Publications (in Russian):
 
