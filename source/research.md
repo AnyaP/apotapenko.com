@@ -4,28 +4,34 @@ title: Research
 permalink: /research/
 ---
 
+My research interests include language and biology. During my PhD I was working on topics of distributional semantics to develop new ways of learning interpretable and disentangled representations of words and texts.
+Lately, I became increasingly interested in advancing natural sciences with my background in machine learning and thus joined DeepMind Science team to develop deep learning methods for tasks in biology.
+
+
+### Recent publications
+
+[Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2) John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli & Demis Hassabis. Nature, 2021.
+
+[Highly accurate protein structure prediction for the human proteome](https://www.nature.com/articles/s41586-021-03828-1) Kathryn Tunyasuvunakool, Jonas Adler, Zachary Wu, Tim Green, Michal Zielinski, Augustin Žídek, Alex Bridgland, Andrew Cowie, Clemens Meyer, Agata Laydon, Sameer Velankar, Gerard J. Kleywegt, Alex Bateman, Richard Evans, Alexander Pritzel, Michael Figurnov, Olaf Ronneberger, Russ Bates, Simon A. A. Kohl, Anna Potapenko, Andrew J. Ballard, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Ellen Clancy, David Reiman, Stig Petersen, Andrew W. Senior, Koray Kavukcuoglu, Ewan Birney, Pushmeet Kohli, John Jumper & Demis Hassabis. Nature, 2021.
+
+[Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning](https://aclanthology.org/2020.acl-main.685/) Angeliki Lazaridou, Anna Potapenko, and Olivier Tieleman. ACL-2020.
+
+[Compressive Transformers for Long-Range Sequence Modelling](https://openreview.net/pdf?id=SylKikSYDH) Jack W. Rae, Anna Potapenko, Siddhant M. Jayakumar, Chloe Hillier, Timothy P. Lillicrap. ICLR-2020.
+
+
+### PhD research (2014 - 2019)
+
 *"You shall know a word by the company it keeps" (Firth, 1957)*.
 
-I am currently working on different methods of distributional semantics.
-I find it fascinating that people (and machines) can learn meaning of words just by their contexts.
+In my PhD, I was working on different methods of distributional semantics.
+I found it fascinating that people (and machines) can learn meaning of words just by their contexts.
 
-Prior to that I was working on Probabilistic Topic Models and particularly non-Bayesian approach of Additive Regularization
+I was working on Probabilistic Topic Models and particularly non-Bayesian approach of Additive Regularization
 that enables meeting multiple requirements for a model in practice.
 
-More broadly, I am interested in Natural Language Processing and Machine Learning techniques.
+#### Events and schools
 
-<br />
-
-<p align="center">
-  <img src="{{ site.url }}/images/words_small.jpg"  width="300" height="300">
-</p>
-
-
-<br />
-
-### Events and schools
-
-Giving a talk on ARTM embeddings [[Slides]({{ site.url }}/images/Slides_ETH_final.pdf)] as an academic guest at Thomas Hofmann's group at ETH Zurich (November 2017 - April 2018).
+Talk on ARTM embeddings [[Slides]({{ site.url }}/images/Slides_ETH_final.pdf)] as an academic guest at Thomas Hofmann's group at ETH Zurich (November 2017 - April 2018).
 
 Rep4NLP workshop co-located with [ACL-2017](http://acl2017.org/), Vancouver, Canada, July 30 - August 4.
 Regularized Topic Models for Sparse Interpretable Word Embeddings [[Poster]({{ site.url }}/images/PosterToRep4NLP_homepage.pdf)]
@@ -51,9 +57,7 @@ Learning Interpretable Topic Models [[Poster]({{ site.url }}/images/Poster_to_RU
 
 <br />
 
-### Publications
-
-##### In English:
+#### Publications (in English):
 
 A. Potapenko [Probabilistic approach for embedding
               arbitrary features of text]({{ site.url }}/images/potapenko2018aist.pdf).
@@ -73,7 +77,7 @@ Potapenko A. A., Vorontsov K. V.  [Robust PLSA Performs Better Than LDA](https:/
 
 <br />
 
-##### In Russian:
+#### Publications (in Russian):
 
 Vorontsov K. V., Potapenko A. A. [Regularization of probabilistic topic models to improve interpretability and determine the number of topics](http://www.dialog-21.ru/digests/dialog2014/materials/pdf/VorontsovKVPotapenkoAA.pdf). International Conference on Computational Linguistics “Dialogue”. – Computational Linguistics and Intellectual Technologies, Moscow, 2014. Pp. 707-719.
 
