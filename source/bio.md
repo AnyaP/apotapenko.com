@@ -7,9 +7,9 @@ permalink: /bio/
 Since 2019 I am a Research Engineer at DeepMind, working on a range of language and bioinformatics problems. 
 
 I graduated from Moscow State University in 2014 with a major in Computer Science.
-During the last years of studies I focused on Machine Learning and also joined [Yandex School Of Data Analysis](https://yandexdataschool.com/), where I studied such courses as Probabilistic Graphical Models by [Dmitry Vetrov](https://cs.hse.ru/en/bayesgroup/people/vetrov), Statistical Machine Translation by [David Talbot](https://research.google.com/pubs/DavidTalbot.html), Deep Learning for Computer Vision by [Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/).
+During the last years of studies I focused on Machine Learning and joined [Yandex School Of Data Analysis](https://yandexdataschool.com/), where I studied such courses as Probabilistic Graphical Models by [Dmitry Vetrov](https://cs.hse.ru/en/bayesgroup/people/vetrov), Statistical Machine Translation by [David Talbot](https://research.google.com/pubs/DavidTalbot.html), Deep Learning for Computer Vision by [Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/).
 
-Then I did my PhD in Natural Language Understanding under supervision of Prof. [Konstantin Vorontsov](https://scholar.google.com/citations?user=KIW4fnsAAAAJ&hl=en&authuser=1), where I developed [Additive Regularization of Topic Models](bigartm.org) to learn probabilistic interpretable sparse embeddings for words, documents and other modalities.
+Then I did my PhD in Natural Language Understanding under supervision of Prof. [Konstantin Vorontsov](https://scholar.google.com/citations?user=KIW4fnsAAAAJ&hl=en&authuser=1). We developed [Additive Regularization of Topic Models](bigartm.org) to learn probabilistic interpretable sparse embeddings for words, documents and other modalities.
 
 As a PhD student, I did several internships:
 

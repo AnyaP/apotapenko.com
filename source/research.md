@@ -31,6 +31,7 @@ I found it fascinating that people (and machines) can learn meaning of words jus
 I was working on Probabilistic Topic Models and particularly non-Bayesian approach of Additive Regularization
 that enables meeting multiple requirements for a model in practice.
 
+<br />
 
 ##### Events and schools
 
@@ -58,8 +59,9 @@ The 8th Russian Summer School in Information Retrieval [RuSSIR 2014](http://romi
 Novgorod, Russia, August 18-22 2014. Additive Regularization for
 Learning Interpretable Topic Models [[Poster]({{ site.url }}/images/Poster_to_RUSSIR.pdf)].
 
+<br />
 
-##### Publications:
+##### Publications
 
 A. Potapenko [Probabilistic approach for embedding
               arbitrary features of text]({{ site.url }}/images/potapenko2018aist.pdf).
