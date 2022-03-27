@@ -7,8 +7,9 @@ permalink: /research/
 My research interests include language and biology. During my PhD I was working on topics of distributional semantics to develop new ways of learning interpretable and disentangled representations of words and texts.
 Lately, I became increasingly interested in advancing natural sciences with methods from machine learning, and thus joined DeepMind Science team to develop new models for tasks in biology.
 
+<br />
 
-### Recent publications
+##### Recent publications
 
 [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2). John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli & Demis Hassabis. Nature, 2021.
 
@@ -20,7 +21,7 @@ Lately, I became increasingly interested in advancing natural sciences with meth
 
 <br />
 
-### PhD research (2014 - 2019)
+### PhD (2014 - 2019)
 
 *"You shall know a word by the company it keeps" (Firth, 1957)*.
 
@@ -30,7 +31,8 @@ I found it fascinating that people (and machines) can learn meaning of words jus
 I was working on Probabilistic Topic Models and particularly non-Bayesian approach of Additive Regularization
 that enables meeting multiple requirements for a model in practice.
 
-#### Events and schools
+
+##### Events and schools
 
 Talk on ARTM embeddings [[Slides]({{ site.url }}/images/Slides_ETH_final.pdf)] as an academic guest at Thomas Hofmann's group at ETH Zurich (November 2017 - April 2018).
 
@@ -57,7 +59,7 @@ Novgorod, Russia, August 18-22 2014. Additive Regularization for
 Learning Interpretable Topic Models [[Poster]({{ site.url }}/images/Poster_to_RUSSIR.pdf)].
 
 
-#### Publications (in English):
+##### Publications:
 
 A. Potapenko [Probabilistic approach for embedding
               arbitrary features of text]({{ site.url }}/images/potapenko2018aist.pdf).
@@ -74,9 +76,6 @@ Vorontsov K. V., Potapenko A. A., Plavin A.V. [Additive Regularization of Topic 
 Vorontsov K. V., Potapenko A. A. [Tutorial on Probabilistic Topic Modeling: Additive Regularization for Stochastic Matrix Factorization](https://pdfs.semanticscholar.org/757c/6b0894db85c69b41f112b6325060020ae358.pdf). Analysis of Images, Social Networks, and Texts. – Springer, 2014, CCIS, vol. 436, pp. 29-46.
 
 Potapenko A. A., Vorontsov K. V.  [Robust PLSA Performs Better Than LDA](https://www.researchgate.net/profile/Konstantin_Vorontsov/publication/262314923_Robust_PLSA_performs_better_than_LDA/links/54e9f3480cf25ba91c814c64.pdf). The 35-th European Conference on Information Retrieval, ECIR-2013, Moscow, Russia, 24-27 March 2013. – LNCS 7814, Springer-Verlag Germany, 2013. Pp. 784-787.
-
-
-#### Publications (in Russian):
 
 Vorontsov K. V., Potapenko A. A. [Regularization of probabilistic topic models to improve interpretability and determine the number of topics](http://www.dialog-21.ru/digests/dialog2014/materials/pdf/VorontsovKVPotapenkoAA.pdf). International Conference on Computational Linguistics “Dialogue”. – Computational Linguistics and Intellectual Technologies, Moscow, 2014. Pp. 707-719.
 

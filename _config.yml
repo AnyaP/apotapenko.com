@@ -30,10 +30,10 @@ disqus_site_shortname: "nandothemes"
 # Author settings
 author:
   name      : Anna Potapenko
-  job       : NLP Researcher
-  bio       : "You can contact me at anna.a.potapenko[at]gmail.com."
+  job       : AI researcher in language and biology
+  bio       : "You can contact me at apotapenko[at]google.com."
   thumb     : /images/author.jpg
-  email     : anna.a.potapenko@gmail.com
+  email     : apotapenko@google.com
   url       : http://apotapenko.com
   #github    : http://github.com/nandomoreirame
   #twitter   : http://twitter.com/nandomoreirame
